@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.gridlayout.widget.GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_row="5"
+    android:background="@color/colorFondo"
+    android:padding="20dp"
+    app:columnCount="5"
+    tools:context=".MainActivity">
+
+    android:id="@+id/gridLayout"
+    android:layout_width="354dp"
+    android:layout_height="342dp"
+    android:layout_marginStart="20dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginEnd="20dp"
+    app:columnCount="5"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:rowCount="5">
+
+    <Button
+        android:id="@+id/btnMinas00"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas01"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas02"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas03"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas04"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas10"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas11"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas12"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas13"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas14"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas20"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas21"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas22"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas23"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas24"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas30"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas31"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas32"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas33"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas34"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas40"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas41"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas42"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas43"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:id="@+id/btnMinas44"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/botonesMinas"
+        app:cornerRadius="0dp" />
+
+    <TextView
+        android:id="@+id/lblPuntos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="22dp"
+        android:text="@string/lblJugar"
+        android:textColor="@color/lblPuntos"
+        android:textSize="20sp"
+        app:layout_columnSpan="5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gridLayout"
+        app:layout_rowSpan="5" />
+
+    <Button
+        android:id="@+id/btnNuevo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="@color/btnNuevo"
+        android:text="@string/btnNuevo"
+        app:cornerRadius="5dp"
+        app:layout_columnSpan="2"
+        app:layout_columnWeight="2"
+        app:layout_rowSpan="2" />
+
+    <Button
+        android:id="@+id/btnResolver"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="@color/btnResolver"
+        android:text="@string/btnResolver"
+        app:cornerRadius="5dp"
+        app:layout_column="3"
+        app:layout_columnSpan="2"
+        app:layout_columnWeight="2"
+        app:layout_rowSpan="2" />
+
+</androidx.gridlayout.widget.GridLayout>
